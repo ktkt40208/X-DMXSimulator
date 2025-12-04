@@ -1,0 +1,7 @@
+﻿<Solution>
+  <Project Path="com.enhance-experience.x-os.editor.csproj" />
+  <Project Path="OscJack.Runtime.csproj" />
+  <Project Path="com.enhance-experience.x-os.csproj" />
+  <Project Path="Assembly-CSharp-Editor.csproj" />
+  <Project Path="Assembly-CSharp.csproj" />
+</Solution>
